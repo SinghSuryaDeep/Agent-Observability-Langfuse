@@ -105,8 +105,8 @@ Interactive session has started. To escape, input 'q' and submit.
 Example queries:
 
 ```
-#Latest news about artificial intelligence in 2025
-#What is the current weather in Chandigarh?
+1) Latest news about artificial intelligence in 2025
+2) What's the current weather in Chandigarh?
 ```
 
 To exit, type:
@@ -116,35 +116,4 @@ q
 ```
 
 ---
-
-## 📊 Observability & Tracing with Langfuse
-
-* Every agent execution is traced with **Langfuse**.
-* You can view step-by-step reasoning, tool usage, and performance metrics.
-* More on setting up Langfuse: [Langfuse Self-Hosting Guide](https://langfuse.com/self-hosting/docker-compose)
-
----
-
-## 🛠 Tech Stack
-
-* **[BeeAI Framework](https://pypi.org/project/beeai-framework/)**
-* **[Langfuse](https://langfuse.com/)**
-* **[IBM Watsonx](https://www.ibm.com/watsonx)**
-* **Python 3.10+**
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## ✍️ Author
-
-**Surya Deep Singh**
-[Medium](https://medium.com/@SuryaDeepSingh)
-
-```
-
 
