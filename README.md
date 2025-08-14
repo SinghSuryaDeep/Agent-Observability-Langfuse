@@ -40,8 +40,8 @@ This implementation is explained in detail in my blog post:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/SinghSuryaDeep/Agent-Observability-Langfuse.git
+cd Agent-Observability-Langfuse
 ````
 
 ### 2️⃣ Install dependencies
