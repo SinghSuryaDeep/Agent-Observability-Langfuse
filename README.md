@@ -1,4 +1,4 @@
-# Observable AI Agent with Langfuse and Agents (BeeAI)
+# Observable AI Agent with Langfuse and BeeAI
 
 This project demonstrates how to build **observable AI agents** using the **BeeAI framework**, **Langfuse for observability and tracing**, and **IBM Watsonx** as the LLM provider.  
 The agent is equipped with Wikipedia, DuckDuckGo search, and weather tools, and supports interactive conversations from the terminal.
