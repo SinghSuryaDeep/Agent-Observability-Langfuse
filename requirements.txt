@@ -1,0 +1,6 @@
+beeai-framework[all]
+termcolor==3.1.0
+langfuse==3.2.6
+openinference-instrumentation-beeai==0.1.8
+ibm-watsonx-ai>=1.0.0
+ibm-cloud-sdk-core>=3.16.0
